@@ -24,14 +24,14 @@
 
 <br>
 
-- :mortar_board: &nbsp;Final-year **Informática Empresarial** student at [Universidad de Costa Rica](https://www.ucr.ac.cr/) — wrapping up with my professional internship.
-- :briefcase: &nbsp;**Freelance Software Developer** with international projects in the Dominican Republic — POS & inventory systems in production.
-- :rocket: &nbsp;Currently building **SaaS platforms** and **cross-platform desktop apps** with `Tauri v2 + Next.js 15`.
-- :wrench: &nbsp;Specialized in enterprise desktop systems and full-stack web architectures.
-- :seedling: &nbsp;Currently exploring `Rust`, `Event-Driven Architecture` and `Edge Computing` with Cloudflare Workers.
-- :speech_balloon: &nbsp;Ask me about `C#` · `.NET` · `TypeScript` · `React` · `PostgreSQL` · `Clean Architecture`.
-- :globe_with_meridians: &nbsp;Check out my portfolio at [**tonyml.com**](https://tonyml.com/).
-- :handshake: &nbsp;Open to new job opportunities and collaborations.
+- :mortar_board: &nbsp;Business Informatics student at [Universidad de Costa Rica](https://www.ucr.ac.cr/), completing my professional internship and academic journey.
+- :briefcase: &nbsp;**Software Engineer** with international freelance experience building POS, inventory and business systems in real operation.
+- :rocket: &nbsp;Building **SaaS platforms** and **cross-platform desktop applications** with modern web and desktop technologies.
+- :wrench: &nbsp;Focused on **enterprise systems**, full-stack development and software architecture designed for production environments.
+- :seedling: &nbsp;Exploring `Rust`, `Event-Driven Architecture` and `Edge Computing` with Cloudflare Workers.
+- :speech_balloon: &nbsp;Working with `C#` · `.NET` · `TypeScript` · `React` · `PostgreSQL` · `Clean Architecture`.
+- :globe_with_meridians: &nbsp;Portfolio and projects: [**tonyml.com**](https://tonyml.com/).
+- :handshake: &nbsp;Open to software engineering opportunities, technical collaboration and impactful projects.
 
 <br>
 
